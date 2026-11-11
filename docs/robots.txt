@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zcloud8891.github.io/cascadia-slot-watch/sitemap.xml

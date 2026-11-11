@@ -1,0 +1,27 @@
+{
+ "brand": "Cascadia Slot Watch",
+ "checkout_live": false,
+ "gate": false,
+ "centers": [
+  {
+   "key": "portland",
+   "id": 7960,
+   "free_topic": "cascadia-slots-portland"
+  },
+  {
+   "key": "seattle",
+   "id": 5420,
+   "free_topic": "cascadia-slots-seattle"
+  },
+  {
+   "key": "blaine",
+   "id": 13321,
+   "free_topic": "cascadia-slots-blaine"
+  },
+  {
+   "key": "boise",
+   "id": 12161,
+   "free_topic": "cascadia-slots-boise"
+  }
+ ]
+}
